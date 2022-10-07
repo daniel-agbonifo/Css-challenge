@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: antiquewhite; 
+}
+
+.box {
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    width: 120vh;
+    box-sizing: border-box;
+    margin-left: 23%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+.box .line1 {
+    height: 40vh;
+    width: 10px;
+    background-color: rgb(118, 228, 255);
+    margin-left: -90.5vh;
+    position: fixed;
+    border-radius: 50px;
+}
+.box .line2 {
+    height: 70px;
+    width: 70px;
+    background-color:rgb(118, 228, 255);
+    position: fixed;
+    margin-left: -98vh;
+    margin-top: 38vh;
+    border-radius: 50px;
+}
+.box .line3 {
+    height: 10px;
+    width: 45vh;
+    background-color:rgb(118, 228, 255);
+    position: fixed;
+    margin-left: -46vh;
+    margin-top: -39vh;
+    border-radius: 50px;
+}
+
+.box .line4 {
+    height: 40vh;
+    width: 10px;
+    background-color: rgb(118, 228, 255);
+    margin-left: -2vh;
+    position: fixed;
+    border-radius: 50px;
+}
+
+.box .line5 {
+    height: 70px;
+    width:70px;
+    background-color:rgb(118, 228, 255);
+    position: fixed;
+    margin-left: -10vh;
+    margin-top: 38vh;
+    border-radius: 50px;
+}
+
+.box .line6 {
+    height: 60px;
+    width: 60px;
+    background-color:rgb(118, 228, 255);
+    position: fixed;
+    margin-left: 38.5vh;
+    margin-top: 35.6vh;
+    border-radius: 50px;
+}
+
+.box .line7 {
+    height: 10px;
+    width: 25vh;
+    background-color:rgb(118, 228, 255);
+    position: fixed;
+    margin-left: 70vh;
+    margin-top: -39vh;    
+}
+
+.box .line8 {
+    height: 40.1vh;
+    width: 10px;
+    background-color: rgb(118, 228, 255);
+    margin-left: 45vh;
+    position: fixed;    
+    border-radius: 3px;
+}
